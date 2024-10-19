@@ -1,0 +1,88 @@
+{
+    "instruments":[
+        {
+            "id":1,
+            "tittle":"Guitar",
+            "slug":"Guitar",
+            "description":"Get a remerkable Guitar in an affordable price",
+            "Price":100,
+            "onSale":true,
+            "image":"/public/guitar.png"
+        },
+
+        {
+            "id":2,
+            "tittle":"piano",
+            "slug":"Piano",
+            "description":"Get a piano in an affordable price",
+            "Price":122,
+            "onSale":false,
+            "image":"/public/Piano.png"
+        },
+        {
+            "id":3,
+            "tittle":"Voilin",
+            "slug":"Voilin",
+            "description":"Get a Volin in an affordable price",
+            "Price":122,
+            "onSale":false,
+            "image":"/public/voilin.jpg"   
+        },
+        {
+            "id":4,
+            "tittle":"Drums",
+            "slug":"Drums",
+            "description":"Get remerkable drums in an affordable price",
+            "Price":150,
+            "onSale":false,
+            "image":"/public/drums.png"
+        },
+        {
+            "id":5,
+            "tittle":"Cello",
+            "slug":"Crums",
+            "description":"Get a Cello in an affordable price",
+            "Price":139.99,
+            "onSale":true,
+            "image":"/public/Cello.png"
+        },
+        {
+            "id":6,
+            "tittle":"flute",
+            "slug":"flute",
+            "description":"Get a flute in a good buget",
+            "Price":15,
+            "onSale":false,
+            "image":"/public/Flute.png"
+        },
+        {
+            "id":7,
+            "tittle":"trumpet",
+            "slug":"trumpet",
+            "description":"Get trumpet in an affordable price",
+            "Price":35,
+            "onSale":false,
+            "image":"/public/Trumpet.png"
+        },
+        {
+            "id":8,
+            "tittle":"Saxophone",
+            "slug":"Saxophone",
+            "description":"Get a remerkable saxophone in an affordable price",
+            "Price":100.99,
+            "onSale":true,
+            "image":"/public/Saxophone.png"
+           
+        },
+        {
+            "id":9,
+            "tittle":"Dj-controller",
+            "slug":"Dj-controller",
+            "description":"Get a remerkable Dj-controller in an affordable price",
+            "Price":150,
+            "onSale":true,
+            "image":"/public/dj-controller.jpg"
+           
+        }
+    ]
+}
