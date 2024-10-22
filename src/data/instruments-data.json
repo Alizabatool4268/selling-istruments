@@ -7,7 +7,7 @@
             "description":"Get a remerkable Guitar in an affordable price",
             "Price":100,
             "onSale":true,
-            "image":"/public/guitar.png"
+            "image":"/Guitar.jpg"
         },
 
         {
@@ -17,7 +17,7 @@
             "description":"Get a piano in an affordable price",
             "Price":122,
             "onSale":false,
-            "image":"/public/Piano.png"
+            "image":"/Piano.png"
         },
         {
             "id":3,
@@ -26,7 +26,7 @@
             "description":"Get a Volin in an affordable price",
             "Price":122,
             "onSale":false,
-            "image":"/public/voilin.jpg"   
+            "image":"/voilin.jpg"   
         },
         {
             "id":4,
@@ -35,7 +35,7 @@
             "description":"Get remerkable drums in an affordable price",
             "Price":150,
             "onSale":false,
-            "image":"/public/drums.png"
+            "image":"/drums.png"
         },
         {
             "id":5,
@@ -44,7 +44,7 @@
             "description":"Get a Cello in an affordable price",
             "Price":139.99,
             "onSale":true,
-            "image":"/public/Cello.png"
+            "image":"/Cello.png"
         },
         {
             "id":6,
@@ -53,7 +53,7 @@
             "description":"Get a flute in a good buget",
             "Price":15,
             "onSale":false,
-            "image":"/public/Flute.png"
+            "image":"/Flute.png"
         },
         {
             "id":7,
@@ -62,7 +62,7 @@
             "description":"Get trumpet in an affordable price",
             "Price":35,
             "onSale":false,
-            "image":"/public/Trumpet.png"
+            "image":"/Trumpet.png"
         },
         {
             "id":8,
@@ -71,7 +71,7 @@
             "description":"Get a remerkable saxophone in an affordable price",
             "Price":100.99,
             "onSale":true,
-            "image":"/public/Saxophone.png"
+            "image":"/Saxophone.png"
            
         },
         {
@@ -81,7 +81,7 @@
             "description":"Get a remerkable Dj-controller in an affordable price",
             "Price":150,
             "onSale":true,
-            "image":"/public/dj-controller.jpg"
+            "image":"/dj-controller.jpg"
            
         }
     ]
