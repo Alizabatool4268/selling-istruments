@@ -17,7 +17,7 @@ function Herosection() {
             Explore our curated selection, shop with confidence, and let your passion for music soar!"</p>
         <div className="mt-4">
              <Link href={"/reviews"}>
-             <Button>Explore Reviwes</Button>
+             <Button>Explore Reviews</Button>
              </Link>
         </div>
       </div>

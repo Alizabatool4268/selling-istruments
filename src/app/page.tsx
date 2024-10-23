@@ -2,17 +2,8 @@ import Image from "next/image";
 import React from 'react';
 import Herosection from "@/components/Herosection";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
-import Link from "next/link";
-import Data from "@/data/instruments-data.json"
- interface instruments {
-  id:number,
-  tittle:string,
-  slug:string,
-  description:string,
-  Price:number,
-  onSale:boolean,
-  image:string
-}[]
+import Data from "@/data/instruments-data.json";
+import Footer from "@/components/footer";
 
 function Home() {
   return (
@@ -54,11 +45,19 @@ function Home() {
             >
               Add to cart
             </CardItem>
+            <CardItem
+            as="p"
+            translateZ="60"
+            className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
+          >
+           {instruments.Price}
+          </CardItem>
           </div>
         </CardBody>
       </CardContainer>
       ))}
       </div>
+      <Footer/>
     </main>
   )
 }

@@ -5,7 +5,7 @@
             "tittle":"Guitar",
             "slug":"Guitar",
             "description":"Get a remerkable Guitar in an affordable price",
-            "Price":100,
+            "Price":"Now at 100$",
             "onSale":true,
             "image":"/Guitar.jpg"
         },
@@ -15,7 +15,7 @@
             "tittle":"piano",
             "slug":"Piano",
             "description":"Get a piano in an affordable price",
-            "Price":122,
+            "Price":"Now at 122$",
             "onSale":false,
             "image":"/Piano.png"
         },
@@ -24,7 +24,7 @@
             "tittle":"Voilin",
             "slug":"Voilin",
             "description":"Get a Volin in an affordable price",
-            "Price":122,
+            "Price":"Now at 92.99$",
             "onSale":false,
             "image":"/voilin.jpg"   
         },
@@ -33,7 +33,7 @@
             "tittle":"Drums",
             "slug":"Drums",
             "description":"Get remerkable drums in an affordable price",
-            "Price":150,
+            "Price":"Now at 150$",
             "onSale":false,
             "image":"/drums.png"
         },
@@ -42,7 +42,7 @@
             "tittle":"Cello",
             "slug":"Crums",
             "description":"Get a Cello in an affordable price",
-            "Price":139.99,
+            "Price":"Now at 139.99$",
             "onSale":true,
             "image":"/Cello.png"
         },
@@ -51,7 +51,7 @@
             "tittle":"flute",
             "slug":"flute",
             "description":"Get a flute in a good buget",
-            "Price":15,
+            "Price":"Now at 15$",
             "onSale":false,
             "image":"/Flute.png"
         },
@@ -60,7 +60,7 @@
             "tittle":"trumpet",
             "slug":"trumpet",
             "description":"Get trumpet in an affordable price",
-            "Price":35,
+            "Price":"Now at 35$",
             "onSale":false,
             "image":"/Trumpet.png"
         },
@@ -69,7 +69,7 @@
             "tittle":"Saxophone",
             "slug":"Saxophone",
             "description":"Get a remerkable saxophone in an affordable price",
-            "Price":100.99,
+            "Price":"Now at 100.99$",
             "onSale":true,
             "image":"/Saxophone.png"
            
@@ -79,7 +79,7 @@
             "tittle":"Dj-controller",
             "slug":"Dj-controller",
             "description":"Get a remerkable Dj-controller in an affordable price",
-            "Price":150,
+            "Price":" Now at 150$",
             "onSale":true,
             "image":"/dj-controller.jpg"
            
